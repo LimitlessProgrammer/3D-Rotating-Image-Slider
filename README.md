@@ -14,7 +14,7 @@ Welcome to the 3D Rotating Image Slider project! This project demonstrates how t
 
 ## 💻 Demo
 
-Check out the [live demo](#3d-rotating-image-slider) to see the 3D rotating image slider in action!
+Check out the [live demo](https://limitlessprogrammer.github.io/3d-rotating-image-slider/) to see the 3D rotating image slider in action!
 
 ## 🛠️ Technologies Used
 
